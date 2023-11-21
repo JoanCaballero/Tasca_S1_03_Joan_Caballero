@@ -47,6 +47,12 @@ public class Main {
         while(iterador.hasNext()){
             System.out.println(iterador.next());
         }
-
+        System.out.println("PROVA DUPLICATS: ");
+        System.out.println(mesos);
+        System.out.println("Afegim el mes de desembre repetit.");
+        mesos.add(desembre);
+        System.out.println("ArrayList dels mesos: " + mesos);
+        hashmesos = new HashSet<>(mesos);
+        System.out.println("HashSet dels mesos: " + hashmesos);
     }
 }
