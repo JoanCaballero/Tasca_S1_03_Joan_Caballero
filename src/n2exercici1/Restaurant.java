@@ -14,6 +14,9 @@ public class Restaurant {
     public String getNom() {
         return nom;
     }
+    public String getNomLowerCase(){
+        return getNom().toLowerCase();
+    }
 
     public void setNom(String nom) {
         this.nom = nom;
@@ -36,7 +39,7 @@ public class Restaurant {
         }
         if(rest instanceof Restaurant){
             Restaurant r = (Restaurant) rest;
-            return this.nom == r.nom && this.punt == r.punt;
+            return this.getNom().equalsIgnoreCase(r.getNom()) && this.punt == r.punt;
         }
         return false;
     }
@@ -46,7 +49,7 @@ public class Restaurant {
     }
     public int hashCode(){
         int valor;
-        valor = this.punt + nom.hashCode();
+        valor = this.punt + this.getNomLowerCase().hashCode();
         return valor;
     }
 }
