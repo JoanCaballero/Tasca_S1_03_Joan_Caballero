@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16707064-567f-4d70-9a8f-544cc866ad57" name="Changes" comment="Tasca 3 n2exercici2 Decideix si vols corregir uppercase o noi encara falta n1ex3 introduir els resultats a un .txt">
+    <list default="true" id="16707064-567f-4d70-9a8f-544cc866ad57" name="Changes" comment="Tasca 3 n2exercici2 acabat n1ex3 introduir els resultats a un .txt">
+      <change afterPath="$PROJECT_DIR$/classificacio.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n2exercici1/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n2exercici1/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n2exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n2exercici2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="n1exercici2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n2exercici2.Main">
+  <component name="RunManager" selected="Application.n1exercici3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1exercici1.Main" />
       <module name="Tasca_S1_03_Joan_Caballero" />
@@ -116,9 +116,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n1exercici3.Main" />
         <item itemvalue="Application.n2exercici2.Main" />
         <item itemvalue="Application.n2exercici1.Main" />
-        <item itemvalue="Application.n1exercici3.Main" />
         <item itemvalue="Application.n1exercici2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700647930909</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tasca 3 n2exercici2 acabat n1ex3 introduir els resultats a un .txt">
+      <created>1700651013406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700651013406</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +187,8 @@
     <MESSAGE value="Tasca 3 n1ex2" />
     <MESSAGE value="Tasca 3 n1ex3" />
     <MESSAGE value="Tasca 3 n2exercici2 Decideix si vols corregir uppercase o noi encara falta n1ex3 introduir els resultats a un .txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasca 3 n2exercici2 Decideix si vols corregir uppercase o noi encara falta n1ex3 introduir els resultats a un .txt" />
+    <MESSAGE value="Tasca 3 n2exercici2 acabat n1ex3 introduir els resultats a un .txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasca 3 n2exercici2 acabat n1ex3 introduir els resultats a un .txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
