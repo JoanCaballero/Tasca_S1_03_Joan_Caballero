@@ -1,7 +1,5 @@
 package n1exercici2;
 
-import n1exercici1.Month;
-
 import java.util.*;
 
 public class Main {

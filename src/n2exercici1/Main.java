@@ -1,5 +1,5 @@
 package n2exercici1;
-import n1exercici3.Mapa;
+
 
 import java.util.*;
 

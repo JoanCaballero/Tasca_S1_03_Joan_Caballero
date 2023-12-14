@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class Mapa {
 
-    Map<String, String> map;
+    private Map<String, String> map;
 
     public Mapa(String missatge){
         this.map = HashMapFromTextFile(missatge);

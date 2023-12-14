@@ -1,6 +1,5 @@
 package n2exercici1;
 
-import java.util.Objects;
 
 public class Restaurant {
     public String nom;

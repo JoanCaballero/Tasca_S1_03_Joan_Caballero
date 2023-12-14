@@ -3,15 +3,12 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.nio.file.StandardCopyOption;
 import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    final static String filePath = "C:/Users/formacio/Desktop/JC/Tasca_S1_03_Joan_Caballero/countries.txt";
+    final static String filePath = "resources/countries.txt";
     static Map<String, String> map;
     static Scanner sca = new Scanner(System.in);
     static Random r = new Random();
@@ -45,7 +42,7 @@ public class Main {
         } else{
             System.out.println("Felicitats! Estàs fet/a tot un/a rodamón.");
         }
-        try(FileWriter fw = new FileWriter("classificacio.txt", true);
+        try(FileWriter fw = new FileWriter("resources/classificacio.txt", true);
             BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter out = new PrintWriter(bw)){
             out.println("Usuari: " + usuari + ". Puntuació: " + punt);
