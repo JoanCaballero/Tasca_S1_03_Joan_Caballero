@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16707064-567f-4d70-9a8f-544cc866ad57" name="Changes" comment="Tasca 3 acabada">
+    <list default="true" id="16707064-567f-4d70-9a8f-544cc866ad57" name="Changes" comment="Correcció n1">
+      <change afterPath="$PROJECT_DIR$/src/n1exercici3/gestioExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classificacio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/classificacio.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/countries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/classificacio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/classificacio.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/n1exercici3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici3/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici3/Mapa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\formacio\Desktop\JC\Tasca_S1_03_Joan_Caballero\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="n2exercici2" />
       <recent name="n2exercici1" />
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700652430085</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Correcció n1">
+      <created>1702554328104</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554328104</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +207,8 @@
     <MESSAGE value="Tasca 3 n2exercici2 Decideix si vols corregir uppercase o noi encara falta n1ex3 introduir els resultats a un .txt" />
     <MESSAGE value="Tasca 3 n2exercici2 acabat n1ex3 introduir els resultats a un .txt" />
     <MESSAGE value="Tasca 3 acabada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasca 3 acabada" />
+    <MESSAGE value="Correcció n1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcció n1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
