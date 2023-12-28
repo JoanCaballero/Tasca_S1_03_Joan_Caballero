@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        gestioExam gE = new gestioExam();
+        GestioExam gE = new GestioExam();
         gE.nomUsuari();
         gE.crearExam();
         gE.imprimirPuntuacio();
