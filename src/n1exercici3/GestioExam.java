@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
-public class gestioExam {
+public class GestioExam {
     final static String filePath = "resources/countries.txt";
     static Map<String, String> map;
     static Scanner sca = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class gestioExam {
     static int punt = 0;
     private String usuari;
 
-    public gestioExam(){
+    public GestioExam(){
         Mapa mapa = new Mapa(filePath);
         map = mapa.getMap();
     }
